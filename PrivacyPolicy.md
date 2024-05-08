@@ -7,7 +7,9 @@ As an avid Android user myself, I take privacy very seriously.
 I know how frustrating it is when apps collect your data without your knowledge.
 
 ### Data collected
-I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. All data (app preferences such as audio settings created by the you (the user) is stored locally in your device only, and can be simply be erased by clearing the app's data or uninstalling it. No analytics software is present in the app either.
+I hereby state, that this app does not collect user data and also doesn’t share user data with other companies or organisations.
+
+I have not programmed this app to collect any personally identifiable information. All data (app preferences such as audio settings created by the you (the user) is stored locally in your device only, and can be simply be erased by clearing the app's data or uninstalling it.
 
 ### App permissions
 The main feature of this app involves the use of the device's camera, thus, the app may require you to allow the camera usage permission before using the app. This permission does not involve the collection of any sensitive data from the user.
