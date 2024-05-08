@@ -5,5 +5,4 @@ Missing files from repo:
 - Library (folder)
 - Packages (folder)
 
-Download these files from: "https://drive.google.com/drive/folders/1HtMjbZXg1km6t3w6PNQEF5iWp_EGPZWA?usp=sharing"
-and add to the project
+as you can see, the project uploaded here is incomplete. I'm still figuring this out but do contact me if there are any questions.
